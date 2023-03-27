@@ -36,7 +36,7 @@ models = dict(
         "src.model.deepv3",
         "DeepWV3Plus",
         dict(num_classes=19),
-        "/path/to/the/pretrained/deeplabv3plus/weights.pth",
+        "/content/sample_data/cityscapes_best.pth",
     )
 )
 
