@@ -95,7 +95,7 @@ class CONFIG:
     # --------------------- #
 
     # directory with inputs and outputs, i.e. saving and loading data
-    metaseg_io_path = "/your/metaseg/input-output/path"
+    metaseg_io_path = "/content/sample_data/Input-output"
 
     # ---------------------------- #
     # paths for data preparation   #
