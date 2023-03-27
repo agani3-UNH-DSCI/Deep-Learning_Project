@@ -84,7 +84,7 @@ datasets = dict(
         "custom_dataset",
         "src.datasets.custom",
         "CustomDataset",
-        dict(root="/path/to/your/image/directory", image_file_extension=".png"),
+        dict(root="/content/sample_data/Data", image_file_extension=".png"),
     ),
 )
 
