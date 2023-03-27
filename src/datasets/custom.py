@@ -12,7 +12,7 @@ discover_mapping = {0: ("unlabeled", (0, 0, 0))}
 class CustomDataset(data.Dataset):
     def __init__(
         self,
-        root="/path/to/your/image/directory",
+        root="/content/sample_data/Data",
         image_file_extension=".png",
         transform=None,
         label_mapping=None,
